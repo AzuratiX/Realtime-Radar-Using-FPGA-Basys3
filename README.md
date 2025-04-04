@@ -32,5 +32,5 @@ This repository contains a simple yet functional radar system implemented in Ver
 ## 💡 Future Improvements
 
 - Add UART or Bluetooth for PC/mobile radar visualization
-- Store distance data for logging or analysis
-- Optimize echo detection logic for higher accuracy
+- Better Visualization Method.
+- Use Laser Sensor Instead of Ultrasonic Sensor
